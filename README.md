@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-GitHub%20Pages-7c3aed?style=for-the-badge)](https://manikanta-04.github.io/stockr/)
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-GitHub%20Pages-7c3aed?style=for-the-badge)](https://manikanta-04.github.io/Inventory-manager/)
 
 <br/>
 
@@ -27,10 +27,9 @@
 
 | Service | URL |
 |---|---|
-| 🌐 **STOCKR Dashboard** | [manikanta-04.github.io/stockr](https://manikanta-04.github.io/stockr/) |
+| 🌐 **STOCKR Dashboard** | [manikanta-04.github.io/Inventory-manager/](https://manikanta-04.github.io/Inventory-manager/) |
 
 > ⚡ No login. No install. Open and manage your inventory instantly.
-> *(Update with your actual deployed URL)*
 
 ---
 
@@ -444,7 +443,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ⭐ **Star this repo** if STOCKR saved you from a spreadsheet!
 
-[![GitHub Stars](https://img.shields.io/github/stars/manikanta-04/stockr?style=social)](https://github.com/manikanta-04/stockr)
+[![GitHub Stars](https://img.shields.io/github/stars/manikanta-04/stockr?style=social)](https://github.com/manikanta-04/Inventory-manager/)
 
 ---
 
